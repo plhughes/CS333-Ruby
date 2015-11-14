@@ -1,8 +1,8 @@
 =begin
 Phoebe Hughes and Anh Uong 
 CS333 Project 7
-garbage_collection.rb
-identifies when garbage is collected
+haiku.rb
+helps explain memory management
 =end
 
 
